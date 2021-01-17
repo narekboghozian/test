@@ -17,7 +17,7 @@ At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praese
 
 ``Here is some code using double backticks\ with a new line``
 
-`Here is some code with one backtick`
+`Here is some code with one backtick\ and a new line`
 
 Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
